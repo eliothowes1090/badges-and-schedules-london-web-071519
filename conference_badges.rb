@@ -1,7 +1,7 @@
 # Write your code here.
 
-def badge_maker(delegate)
-  "Hello, my name is #{delegate}."
+def badge_maker(attendee)
+  "Hello, my name is #{attendee}."
 end
 
 def batch_badge_creator(attendees)
